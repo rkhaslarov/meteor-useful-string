@@ -125,3 +125,9 @@ string.isBlank - checks if string is blank.
 ```js
 " ".isBlank() // true
 ```
+
+string.format - printf realization in js (added in 1.0.1). 
+
+```js
+"Hello {0}".format("friend") // Hello friend
+```
