@@ -1,6 +1,6 @@
 Package.describe({
 	name: 'rkhaslarov:useful-string',
-	version: '1.0.1',
+	version: '1.0.2',
 	summary: 'Collection of useful functions extended JavaScript String Object.',
 	git: 'https://github.com/rkhaslarov/useful-string',
 	documentation: 'README.md'

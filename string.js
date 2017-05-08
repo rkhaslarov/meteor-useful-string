@@ -70,5 +70,8 @@ Object.assign(String.prototype, {
 	},
 	md5: function () {
 		return md5(this.valueOf());
+	},
+	toBoolean: function () {
+		return this.valueOf() === "true";
 	}
 });

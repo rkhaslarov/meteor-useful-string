@@ -131,3 +131,9 @@ string.format - printf realization in js (added in 1.0.1).
 ```js
 "Hello {0}".format("friend") // Hello friend
 ```
+
+string.toBoolean - converts string to boolean (added in 1.0.2). 
+
+```js
+"false".toBoolean() // false
+```
